@@ -30,4 +30,4 @@ Tech Stack
 Client-side: React, Typescript, TailwindCSS, NextJS
 
 Support
-For assistance, please email shentharkrishnatejaswi@gmail.com
+For assistance, please email anjalikavita1377@gmail.com
